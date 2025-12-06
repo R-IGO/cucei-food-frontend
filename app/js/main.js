@@ -10,7 +10,7 @@ import { CommentManager } from "./CommentManager.js";
 import { SessionManager } from "./SessionManager.js";
 
 // On server
-const backendUrl = "https://parapodial-floatingly-chong.ngrok-free.dev";
+const backendUrl = "https://cucei-food-backend.onrender.com";
 const client = new Client(backendUrl);
 
 // On local
